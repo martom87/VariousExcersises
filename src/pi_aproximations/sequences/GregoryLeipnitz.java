@@ -1,4 +1,4 @@
-package pi_aproximations;
+package pi_aproximations.sequences;
 
 class GregoryLeipnitz {
     double sequenceFormula;
